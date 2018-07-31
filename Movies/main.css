@@ -1,20 +1,22 @@
-.main-header-div {
-	width: auto;
-	height: 664;
-	background: white;
-	margin: auto;
-	text-align: center;
+.video  {
+}
+.p1{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.main-header-div{
+	width: 900;
+	height: auto;
+	margin:auto;
 }
 .main-header{
 	width: 900;
-	height: 650;
+	height: 700;
 	margin: auto;
-	background: white;
+	background: #222;
+
 }
-.main-header hr{
-	font-weight:bold
-}
-.main h1 {
+.main h2 {
 	padding: 30px;
 	padding-top: 60;
 }
