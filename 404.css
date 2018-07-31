@@ -2,6 +2,8 @@
   background-color: #f2f2f2;
 }
 .block{
+  width="600"
+  height="400"
   align-content: center;
   background-color: black;
 }
