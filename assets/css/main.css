@@ -28,7 +28,7 @@
     margin-bottom: 30px; }
 
 .ButtonBox {
-  background: #00a7f5;
+  background: #036D96;
   color: #fff;
   display: inline-block;
   border-radius: 50px;
@@ -46,4 +46,4 @@
   -o-transition: all 0.4s;
   padding: 20px 45px; }
   .ButtonBox:hover, .ButtonBox:focus {
-    background: #2980b9; }
+    background: #07526F; }
